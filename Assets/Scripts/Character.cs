@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Character : Billboard
+public class Character : MonoBehaviour
 {
     public enum CharacterType { Player, NPC, Enemy };
 
